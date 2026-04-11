@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fanzz Dev</h1>
 <h3 align="center">I'm a front end developer indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanzzxd2010" alt="fanzzxd2010" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
